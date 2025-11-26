@@ -6,8 +6,8 @@ namespace BlogPlatform.Core.Interfaces
 {
     public interface IPostRepository
     {
-        Task<IEnumerable<Post>> GetAllPostsAsync();
-        Task<Post?> GetPostByIdAsync(int id);
+        Task<IEnumerable<Post>> GetAllAsync();
+        Task<Post?> GetByIdAsync(int id);
 
         // Crud: create, read, update, delete
         Task AddAsync(Post post);
