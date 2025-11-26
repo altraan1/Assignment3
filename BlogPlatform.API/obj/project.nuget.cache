@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fmiNpY6FhAQ=",
+  "dgSpecHash": "+jAxlBAZTnA=",
   "success": true,
   "projectFilePath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.API\\BlogPlatform.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512",
     "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
