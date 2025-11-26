@@ -4,14 +4,14 @@
     "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj": {
+    "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\BlogPlatform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj",
-        "projectName": "BlogPlatform.Infrastructure",
-        "projectPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\BlogPlatform.Core.csproj",
+        "projectName": "BlogPlatform.Core",
+        "projectPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\BlogPlatform.Core.csproj",
         "packagesPath": "C:\\Users\\anhmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anhmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,83 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj",
+        "projectName": "BlogPlatform.Infrastructure",
+        "projectPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\anhmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anhmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\BlogPlatform.Core.csproj": {
+                "projectPath": "C:\\Users\\anhmi\\Documents\\Sheridan\\Year2\\Term4\\PROG30000\\Assignments\\assignment2\\blogplatform\\BlogPlatform.Core\\BlogPlatform.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

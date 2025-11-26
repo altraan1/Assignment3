@@ -1,0 +1,12 @@
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\bin\Debug\net9.0\BlogPlatform.Core.deps.json
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\bin\Debug\net9.0\BlogPlatform.Core.dll
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\bin\Debug\net9.0\BlogPlatform.Core.pdb
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.AssemblyInfo.cs
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.sourcelink.json
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.dll
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\refint\BlogPlatform.Core.dll
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\BlogPlatform.Core.pdb
+C:\Users\anhmi\Documents\Sheridan\Year2\Term4\PROG30000\Assignments\assignment2\blogplatform\BlogPlatform.Core\obj\Debug\net9.0\ref\BlogPlatform.Core.dll
